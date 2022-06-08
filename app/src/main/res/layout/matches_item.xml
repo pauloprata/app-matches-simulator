@@ -49,11 +49,12 @@
             android:id="@+id/textView4"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginStart="@dimen/margin_default"
+            android:layout_marginStart="8dp"
             android:text="x"
             app:layout_constraintBottom_toBottomOf="@+id/ivHomeTeam"
             app:layout_constraintStart_toEndOf="@+id/tvScoreHome"
-            app:layout_constraintTop_toTopOf="@+id/ivHomeTeam" />
+            app:layout_constraintTop_toTopOf="@+id/ivHomeTeam"
+            app:layout_constraintVertical_bias="0.554" />
 
         <ImageView
             android:id="@+id/ivTeamAway"

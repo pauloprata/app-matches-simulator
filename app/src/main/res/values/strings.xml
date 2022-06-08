@@ -3,4 +3,5 @@
     <string name="txt_simulate">simulate result</string>
     <string name="cd_home_team">card home team</string>
     <string name="txt_versus">X</string>
+    <string name="error_api">error unespected</string>
 </resources>
